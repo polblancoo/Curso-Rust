@@ -31,7 +31,7 @@ Luego sigue las instrucciones en pantalla para seleccionar el ejemplo.
 ## Contenido de los Capítulos
 
 ### Capítulo 1
-- [Ver detalles](capitulo_1/README.md)
+- [Ver detalles](/curso_rust/capitulo_1/README.md)
 
 ### Capítulo 2
 - [Ver detalles](capitulo_2/README.md)
