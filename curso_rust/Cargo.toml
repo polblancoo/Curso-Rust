@@ -1,0 +1,33 @@
+[package]
+name = "curso_rust"
+version = "0.1.0"
+edition = "2021"
+authors = ["Curso Rust"]
+
+[workspace]
+members = [
+    "capitulo_1",
+    "capitulo_2",
+    "capitulo_3",
+    "capitulo_4",
+    "capitulo_5",
+    "capitulo_6",
+    "capitulo_7",
+    "capitulo_8",
+    "capitulo_9",
+    "capitulo_10",
+    "capitulo_11",
+    "capitulo_12",
+    "capitulo_13",
+    "capitulo_14",
+    "capitulo_15",
+    "capitulo_16",
+    "capitulo_17",
+    "capitulo_18",
+    "capitulo_19",
+    "capitulo_20",
+]
+
+[[bin]]
+name = "curso_rust"
+path = "main.rs"
